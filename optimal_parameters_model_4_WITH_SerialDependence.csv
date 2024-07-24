@@ -1,0 +1,6 @@
+Parameter,Value
+rho,0.5
+sigmaConf,1.0
+theta,0.5
+alpha_sd,3.0
+beta_sd,7.0
