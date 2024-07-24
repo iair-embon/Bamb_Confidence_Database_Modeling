@@ -1,1 +1,0 @@
-normalize confidence between task and plot the 
